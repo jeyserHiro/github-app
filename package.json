@@ -1,11 +1,11 @@
 {
-  "name": ".",
+  "name": "Github App",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./bin/app"
+    "start": "node bin/app.js"
   },
   "keywords": [],
   "author": "Hiro",
